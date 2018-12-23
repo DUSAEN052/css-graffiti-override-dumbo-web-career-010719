@@ -15,6 +15,8 @@ div#wall #tag-2 + #tag-3 {
   display: none;
 }
 
-
+#wall .parent #tag-5 {
+  display: none;
+}
 
 
